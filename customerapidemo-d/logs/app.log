@@ -1,0 +1,4 @@
+2020-06-12 20:08:29,312 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [restartedMain] Starting CustomerapidemoApplication on LAPTOP-8UDIFQU3 with PID 15604 (C:\Users\cigar621\OneDrive - The City University of New York\virtusa\projects\customerapidemo-d\target\classes started by cigar621 in C:\Users\cigar621\OneDrive - The City University of New York\virtusa\projects\customerapidemo-d)
+2020-06-12 20:08:29,315 DEBUG com.virtusa.customerapidemo.CustomerapidemoApplication [restartedMain] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-12 20:08:29,316 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-12 20:08:48,554 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [restartedMain] Started CustomerapidemoApplication in 19.856 seconds (JVM running for 23.019)
